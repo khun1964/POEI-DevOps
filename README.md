@@ -15,7 +15,7 @@ Création de kubernetes Clusters
             Usage apply Kubernetes doivent 
             Backup for GKE (requis)
 
-Le cluster kubernetes qualification vian un fichier yaml sera dupliqué pour réaliser le cluster préprod qui lui même sera cloné vers un cluster prod. 
+Le cluster kubernetes qualification via un fichier yaml sera dupliqué pour réaliser le cluster préprod qui lui même sera cloné vers un cluster prod. 
 
 Création d'un instance-poei pour une BDD Mysql avec backend recommandé.
 
